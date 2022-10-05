@@ -1,0 +1,45 @@
+.flex{
+    background-color: brown;
+    display: flex;
+    width: 1300px;
+    height: 30px;
+
+}
+.font{
+    margin-top: 100px;
+    margin-right: 50px;
+    margin-top: 50px;
+
+}
+.flexs{
+    color: brown;
+    display: flex;
+    
+}
+.flexss{
+    color: brown;
+    display: flex;
+}
+.flexsss{
+    color: firebrick;
+    display: flex;
+}
+.flexsssss{
+    color: brown;
+    display: flex;
+}
+.afr{
+    color: brown;
+    display: flex;
+}
+.enter{
+    position: absolute;
+    display: flex;
+}
+.foot{
+    display: flex;
+    color: brown;
+}
+.but{
+    display: flex;
+}
